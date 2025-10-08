@@ -1,13 +1,13 @@
-# 👋 Halo, Saya Aziz Al-Habibie Simatupang
+#  Halo, Saya Aziz Al-Habibie Simatupang
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;JavaScript+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-## 🚀 Tentang Saya
+##  Tentang Saya
 
 An undergraduate Computer Engineering student passionate about software development and technology innovation, aiming to become a skilled fullstack developer.
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,11 +31,13 @@ An undergraduate Computer Engineering student passionate about software developm
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Other Languages
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## 📫 Hubungi Saya
+##  Hubungi Saya
 
 <div align="center">
   
@@ -46,7 +48,7 @@ An undergraduate Computer Engineering student passionate about software developm
 
 </div>
 
-## 💭 Quote of the Day
+##  Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
