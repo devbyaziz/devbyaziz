@@ -23,8 +23,9 @@ An undergraduate Computer Engineering student passionate about software developm
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
 
 ### Data Science & ML
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
